@@ -2,7 +2,6 @@
 
 import { FC, useState } from "react";
 import Image from "next/image";
-import { PieChart } from "react-minimal-pie-chart";
 import Heading from "@/components/Header";
 
 // Define content types for each test and their suboptions
