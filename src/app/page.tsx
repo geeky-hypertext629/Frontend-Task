@@ -629,7 +629,7 @@ const ReportPage: FC = () => {
                 <h3 className="text-xl font-medium mb-2">Introduction</h3>
                 <p className="text-gray-700 mb-4">
                   The Interest Explorer assessment is designed to identify your
-                  vocational interests and preferences. Based on John Holland's
+                  vocational interests and preferences. Based on John Holland
                   RIASEC model, this assessment helps you discover which career
                   fields might align with your natural inclinations and
                   passions.
@@ -892,7 +892,7 @@ const ReportPage: FC = () => {
                   The Importance of Career Motivators
                 </h3>
                 <p className="text-gray-700 mb-4">
-                  When your career aligns with your core motivators, you're more
+                  When your career aligns with your core motivators, youre more
                   likely to feel engaged, satisfied, and successful in your
                   work. Career motivators go beyond simple interests or skills –
                   they tap into deeper values and needs that energize and
@@ -1106,7 +1106,7 @@ const ReportPage: FC = () => {
                         <h5 className="font-medium mb-1">Pros</h5>
                         <p className="text-gray-700">
                           They are friendly, approachable, & enjoy being around
-                          people. They are often seen as the "hosts" of their
+                          people. They are often seen as the hosts of their
                           social circles.
                         </p>
                       </div>
@@ -1115,7 +1115,7 @@ const ReportPage: FC = () => {
                         <h5 className="font-medium mb-1">Cons</h5>
                         <p className="text-gray-700">
                           They are friendly, approachable, & enjoy being around
-                          people. They are often seen as the "hosts" of their
+                          people. They are often seen as the hosts of their
                           social circles.
                         </p>
                       </div>
@@ -1149,7 +1149,7 @@ const ReportPage: FC = () => {
                         <h5 className="font-medium mb-1">Pros</h5>
                         <p className="text-gray-700">
                           They are friendly, approachable, & enjoy being around
-                          people. They are often seen as the "hosts" of their
+                          people. They are often seen as the hosts of their
                           social circles.
                         </p>
                       </div>
@@ -1158,7 +1158,7 @@ const ReportPage: FC = () => {
                         <h5 className="font-medium mb-1">Cons</h5>
                         <p className="text-gray-700">
                           They are friendly, approachable, & enjoy being around
-                          people. They are often seen as the "hosts" of their
+                          people. They are often seen as the hosts of their
                           social circles.
                         </p>
                       </div>
@@ -1380,7 +1380,7 @@ const ReportPage: FC = () => {
                             <span className="text-gray-400 mr-2">•</span>
                             <p className="text-gray-700">
                               They are friendly, approachable, & enjoy being
-                              around people. They are often seen as the "hosts"
+                              around people. They are often seen as the hosts
                               of their social circles.
                             </p>
                           </li>
@@ -1388,7 +1388,7 @@ const ReportPage: FC = () => {
                             <span className="text-gray-400 mr-2">•</span>
                             <p className="text-gray-700">
                               They are friendly, approachable, & enjoy being
-                              around people. They are often seen as the "hosts"
+                              around people. They are often seen as the hosts
                               of their social circles.
                             </p>
                           </li>
@@ -1396,7 +1396,7 @@ const ReportPage: FC = () => {
                             <span className="text-gray-400 mr-2">•</span>
                             <p className="text-gray-700">
                               They are friendly, approachable, & enjoy being
-                              around people. They are often seen as the "hosts"
+                              around people. They are often seen as the hosts
                               of their social circles.
                             </p>
                           </li>
@@ -1437,7 +1437,7 @@ const ReportPage: FC = () => {
                             <span className="text-gray-400 mr-2">•</span>
                             <p className="text-gray-700">
                               They are friendly, approachable, & enjoy being
-                              around people. They are often seen as the "hosts"
+                              around people. They are often seen as the hosts
                               of their social circles.
                             </p>
                           </li>
@@ -1445,7 +1445,7 @@ const ReportPage: FC = () => {
                             <span className="text-gray-400 mr-2">•</span>
                             <p className="text-gray-700">
                               They are friendly, approachable, & enjoy being
-                              around people. They are often seen as the "hosts"
+                              around people. They are often seen as the hosts
                               of their social circles.
                             </p>
                           </li>
@@ -1453,7 +1453,7 @@ const ReportPage: FC = () => {
                             <span className="text-gray-400 mr-2">•</span>
                             <p className="text-gray-700">
                               They are friendly, approachable, & enjoy being
-                              around people. They are often seen as the "hosts"
+                              around people. They are often seen as the hosts
                               of their social circles.
                             </p>
                           </li>
@@ -1493,11 +1493,11 @@ const ReportPage: FC = () => {
                 <h3 className="text-xl font-medium mb-3">Introduction</h3>
                 <p className="text-gray-700 mb-4">
                   The <strong>VARK Learning Style</strong> test identifies and
-                  individual's prefereed learning style based on visual,
+                  individuals prefereed learning style based on visual,
                   auditory, reading and Kinesthetic The VARK Learning Style test
-                  identifies and individual's prefereed learning style based on
+                  identifies and individuals prefereed learning style based on
                   visual, auditory, reading and Kinesthetic The VARK Learning
-                  Style test identifies and individual's prefereed learning
+                  Style test identifies and individuals prefereed learning
                   style based on visual, auditory, reading and Kinesthetic.
                 </p>
               </div>
