@@ -1196,7 +1196,7 @@ const ReportPage: FC = () => {
                 <h3 className="text-xl font-medium mb-2">Introduction</h3>
                 <p className="text-gray-700 mb-4">
                   Emotional intelligence (EI) is the ability to understand and
-                  manage your own emotions and the emotions of others. It's a
+                  manage your own emotions and the emotions of others. Its a
                   crucial skill in both personal and professional life. High
                   emotional intelligence can lead to better relationships,
                   improved decision-making, and overall success.
